@@ -23,7 +23,7 @@ SPI:
 
 I2C:
 ~ ADC
-~ Digital Airflow Sensor (incomplete)
+~ Digital Airflow Sensor
 
 GPIO:
 ~ Pressure sensor Chip Select
