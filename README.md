@@ -17,6 +17,7 @@ The project is designed for a working system with the following components:
 ~ 2 buttons to 'sample' or 'record' data
 
 Listed below are the peripherals used and relevant components.
+
 SPI:
 ~ LCD
 ~ Pressure Sensor
